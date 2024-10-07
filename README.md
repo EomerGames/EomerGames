@@ -1,10 +1,10 @@
 **Good afternoon! I'm Eomer, @EomerGames.**
 
-I'm a hobbyist programmer. I've dabbled in C, C++, 6502 Assembly, and C# with Unity.
+I'm a hobbyist programmer. I've dabbled in C, C++, 6502 Assembly, and C# with Unity. More recently, I've been familiarising myself with Godot.
 
-I'm currently learning Godot, primarily with GDScript, although I'll also work with some C# in it in future.
+At present I'm working on Project Wyrdtide, a Godot game written primarily in GDScript but with some C# thrown into the mix.
 
-You can reach me on eomer.of.angeln@gmail.com
+You can reach me on eomer@eomer.co.uk
 
 
 <!---
